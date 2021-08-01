@@ -1,7 +1,7 @@
 import requests
 import os
 import time as t
-youruser = input("email  : ")
+youruser = input("user  : ")
 yourpassword = input("password :")
 Target = input("url Target : ")
 inpu = input("Sleep :  ")
